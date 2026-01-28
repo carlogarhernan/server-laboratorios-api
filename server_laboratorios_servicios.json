@@ -1,0 +1,2141 @@
+{
+  "laboratory": "Server Laboratorios",
+  "currency": "MXN",
+  "services": [
+    {
+      "pirro": "Clave",
+      "LISTAS DE PRECIOS OFICIALES 2026": "Estudio",
+      "null": null
+    },
+    {
+      "pirro": 1,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete completo adulto: EGO, Biometría hemática, Química sanguínea, Perfil de lípidos, Perfil hepático, Electrolitos, Reacciones febriles, Proteínas totales",
+      "null": null
+    },
+    {
+      "pirro": 2,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete salud integral:  Biometría hemática, Química sanguínea, Perfil de lípidos, Función hepática y renal, EGO",
+      "null": null
+    },
+    {
+      "pirro": 3,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete QS3 glucosa-colesterol-triglicéridos: Glucosa, Colesterol total, Triglicéridos",
+      "null": null
+    },
+    {
+      "pirro": 4,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Química sanguínea 30 parámetros: Panel metabólico de 30 analitos (glucosa, urea, creatinina, ácido úrico, enzimas hepáticas, electrolitos, proteínas, lípidos, etc.)",
+      "null": null
+    },
+    {
+      "pirro": 5,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete QS6 parámetros: Glucosa, Urea, Creatinina, Ácido úrico, Colesterol total, Triglicéridos",
+      "null": null
+    },
+    {
+      "pirro": 6,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete prueba de funcionamiento hepático: ALT/TGP, AST/TGO, FA, GGT, Bilirrubinas (total, directa, indirecta), Albúmina, Globulinas, Relación A/G, Proteínas totales",
+      "null": null
+    },
+    {
+      "pirro": 7,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete QS3 glucosa-urea-creatinina: Glucosa, Urea, Creatinina",
+      "null": null
+    },
+    {
+      "pirro": 8,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete perfil de lípidos: Colesterol total, HDL, LDL, VLDL, Triglicéridos",
+      "null": null
+    },
+    {
+      "pirro": 9,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete perfil electrolitos 3 parámetros: Sodio, Potasio, Cloro",
+      "null": null
+    },
+    {
+      "pirro": 10,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete básico adulto:  Glucosa, Colesterol total, Triglicéridos, EGO",
+      "null": null
+    },
+    {
+      "pirro": 11,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete diabético: Glucosa, Hemoglobina A1c, Microalbuminuria/relación ACR o EGO, Perfil de lípidos",
+      "null": null
+    },
+    {
+      "pirro": 12,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete perfil reumático: PCR, VSG, Factor reumatoide, Antiestreptolisina O, Ácido úrico, Biometría hemática",
+      "null": null
+    },
+    {
+      "pirro": 13,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete preoperatorios: Biometría hemática, Química sanguínea, EGO, VIH (presuntivo) y Grupo/Rh (según indicación)",
+      "null": null
+    },
+    {
+      "pirro": 14,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete perfil ginecológico: Papanicolaou, Cultivo/Exudado vaginal (según variante), Perfil hormonal básico (estradiol, progesterona, LH/FSH) o pruebas de ETS según versión",
+      "null": null
+    },
+    {
+      "pirro": 15,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete perfil tiroideo completo:  TSH, T3 total, T4 total, T3 libre, T4 libre",
+      "null": null
+    },
+    {
+      "pirro": 16,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete prenupciales con VIH:  VIH presuntivo, VDRL (sífilis), Grupo sanguíneo y Factor Rh",
+      "null": null
+    },
+    {
+      "pirro": 17,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete infantil:  Biometría hemática, Química básica, EGO (según rango), Coproparasitoscópico (según versión)",
+      "null": null
+    },
+    {
+      "pirro": 18,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete perfil electrolitos 6 parámetros:  Sodio, Potasio, Cloro, Calcio, Fósforo, Magnesio",
+      "null": null
+    },
+    {
+      "pirro": 19,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete perfil antidoping 3: Tamiz en orina para Anfetaminas, Cocaína, THC",
+      "null": null
+    },
+    {
+      "pirro": 20,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete coproparasitoscópico 2 muestras:  Examen coproparasitoscópico seriado de 2 muestras (microscopía directa/concentración)",
+      "null": null
+    },
+    {
+      "pirro": 21,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete coproparasitoscópico 3 muestras: Examen coproparasitoscópico seriado de 3 muestras (microscopía directa/concentración)",
+      "null": null
+    },
+    {
+      "pirro": 22,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete depuración de creatinina: Creatinina sérica + Creatinina en orina de 24 h + Volumen urinario (y cálculo de depuración)",
+      "null": null
+    },
+    {
+      "pirro": 23,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete tiroideo: TSH, T4 total, T3 total (según versión puede incluir fracciones libres)",
+      "null": null
+    },
+    {
+      "pirro": 24,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete prostático: PSA total (± PSA libre) y/o EGO según versión",
+      "null": null
+    },
+    {
+      "pirro": 25,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete aviación - inicial:  Biometría hemática, Química sanguínea, EGO, Audiometría/Visiometría (si aplica), Rx tórax y/o EKG según normativa (versión paquetizada)",
+      "null": null
+    },
+    {
+      "pirro": 26,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete aviación - renovación: Revaloración con pruebas clínicas básicas (BH, QS, EGO) y estudio(s) complementarios según normativa",
+      "null": null
+    },
+    {
+      "pirro": 27,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete perfil antidoping 6: Tamiz en orina para Anfetaminas, Cocaína, THC, Metanfetaminas, Opiáceos, Benzodiacepinas",
+      "null": null
+    },
+    {
+      "pirro": 28,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete índice de resistencia a la insulina:  Glucosa en ayuno + Insulina en ayuno (cálculo HOMA-IR)",
+      "null": null
+    },
+    {
+      "pirro": 29,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete lupus híbrido: Anticuerpos anti-nucleares (ANA) por IFA + perfil complementario (anti-DNA/ENA) según versión",
+      "null": null
+    },
+    {
+      "pirro": 30,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete embarazo sano ultrasonido 4D sin asesoría: Ultrasonido obstétrico 4D (sin asesoría)",
+      "null": null
+    },
+    {
+      "pirro": 31,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete embarazo sano TRIM I sin asesoría:  Panel de gestación 1er trimestre sin asesoría (BH, QS básica, EGO y/o infecciosas iniciales según versión)",
+      "null": null
+    },
+    {
+      "pirro": 32,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete embarazo sano TRIM II y III:  Panel 2º–3º trimestre (con asesoría)",
+      "null": null
+    },
+    {
+      "pirro": 33,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete embarazo sano ultrasonido 4D:  Ultrasonido obstétrico 4D (con asesoría)",
+      "null": null
+    },
+    {
+      "pirro": 34,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil de TORCH 1 (IgM): Toxoplasma gondii IgM, Rubéola IgM, Citomegalovirus IgM, Herpes simple 1/2 IgM (según versión)",
+      "null": null
+    },
+    {
+      "pirro": 35,
+      "LISTAS DE PRECIOS OFICIALES 2026": " Toxoplasma gondii IgG, Rubéola IgG, Citomegalovirus IgG, Herpes simple 1/2 IgG (según versión)",
+      "null": null
+    },
+    {
+      "pirro": 36,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil de TORCH 3 (IgG y IgM): Toxoplasma gondii IgG/IgM, Rubéola IgG/IgM, Citomegalovirus IgG/IgM, Herpes simple 1/2 IgG/IgM",
+      "null": null
+    },
+    {
+      "pirro": 37,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete perfil de hierro: Hierro sérico, Ferritina, Capacidad total de fijación de hierro (TIBC) / Transferrina",
+      "null": null
+    },
+    {
+      "pirro": 38,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete ginecológico completo: Papanicolaou, Colposcopia, Ultrasonido pélvico/transvaginal (según edad), Perfil hormonal básico o VPH según versión",
+      "null": null
+    },
+    {
+      "pirro": 39,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete salud mujer:  Mastografía/US mamario según edad, Papanicolaou/VPH, Perfil tiroideo/lipídico básico (según versión)",
+      "null": null
+    },
+    {
+      "pirro": 40,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete anticuerpos anti tiroideos: Anti-TPO y Anti-tiroglobulina",
+      "null": null
+    },
+    {
+      "pirro": 41,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete péptido C, curva de 2 muestras: Péptido C basal y post-estímulo (2 muestras)",
+      "null": null
+    },
+    {
+      "pirro": 42,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Paquete curva de cortisol a 2 muestras: Cortisol basal y post-estímulo (2 muestras)",
+      "null": null
+    },
+    {
+      "pirro": 43,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Anticuerpos anti Treponema pallidum IgG e IgM: Treponema pallidum IgG y IgM (prueba serológica confirmatoria)",
+      "null": null
+    },
+    {
+      "pirro": 44,
+      "LISTAS DE PRECIOS OFICIALES 2026": "AC Anti Chlamydia Trachomatis (IgG)",
+      "null": null
+    },
+    {
+      "pirro": 45,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Anti. ENA III (Scl-70)",
+      "null": null
+    },
+    {
+      "pirro": 46,
+      "LISTAS DE PRECIOS OFICIALES 2026": "% de Antígeno Prostático Libre",
+      "null": null
+    },
+    {
+      "pirro": 47,
+      "LISTAS DE PRECIOS OFICIALES 2026": "17 Alfa Hidroxiprogesterona",
+      "null": null
+    },
+    {
+      "pirro": 48,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Cardiolipinas (IgG)",
+      "null": null
+    },
+    {
+      "pirro": 49,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Cardiolipinas (IgM)",
+      "null": null
+    },
+    {
+      "pirro": 50,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Cardiolipinas IgG, IgM",
+      "null": null
+    },
+    {
+      "pirro": 51,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Citomegalovirus (IgG)",
+      "null": null
+    },
+    {
+      "pirro": 52,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Citomegalovirus (IgM)",
+      "null": null
+    },
+    {
+      "pirro": 53,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Citoplasma del Neutrófilo (ANCA-C)PR3",
+      "null": null
+    },
+    {
+      "pirro": 54,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Citoplasma del Neutrófilo (ANCA-P)/MPO",
+      "null": null
+    },
+    {
+      "pirro": 55,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti DNA de una cadena",
+      "null": null
+    },
+    {
+      "pirro": 56,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Epstein BARR (IgG) Cápside",
+      "null": null
+    },
+    {
+      "pirro": 57,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Epstein BARR (IgM) Cápside",
+      "null": null
+    },
+    {
+      "pirro": 58,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Helicobacter pylori (IgG)",
+      "null": null
+    },
+    {
+      "pirro": 59,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Helicobacter pylori (IgM)",
+      "null": null
+    },
+    {
+      "pirro": 60,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Hepatitis A (HAV Total)",
+      "null": null
+    },
+    {
+      "pirro": 61,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Hepatitis A (HAV IgM Cuantitativa)",
+      "null": null
+    },
+    {
+      "pirro": 62,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Hepatitis A IgG (HAV-G Cuantitativa)",
+      "null": null
+    },
+    {
+      "pirro": 63,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Hepatitis C (HCV Cualitativa)",
+      "null": null
+    },
+    {
+      "pirro": 64,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Hepatitis C (HCV Cuantificada)",
+      "null": null
+    },
+    {
+      "pirro": 65,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Herpes I (IgG)",
+      "null": null
+    },
+    {
+      "pirro": 66,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Herpes I (IgM)",
+      "null": null
+    },
+    {
+      "pirro": 67,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Herpes II (IgG)",
+      "null": null
+    },
+    {
+      "pirro": 68,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Herpes II (IgM)",
+      "null": null
+    },
+    {
+      "pirro": 69,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Microsomales de Peroxidasa (a-TPO)",
+      "null": null
+    },
+    {
+      "pirro": 70,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Mitocondriales",
+      "null": null
+    },
+    {
+      "pirro": 71,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Músculo Liso",
+      "null": null
+    },
+    {
+      "pirro": 72,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Mycobacterium tuberculosis (IgM)",
+      "null": null
+    },
+    {
+      "pirro": 73,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Nucleares",
+      "null": null
+    },
+    {
+      "pirro": 74,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Péptido Cíclico Citrulinado (CCP)",
+      "null": null
+    },
+    {
+      "pirro": 75,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Smith (Sm) (IgG)",
+      "null": null
+    },
+    {
+      "pirro": 76,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti SSA (Ro)",
+      "null": null
+    },
+    {
+      "pirro": 77,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti SSB (La)",
+      "null": null
+    },
+    {
+      "pirro": 78,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Tiroglobulina (a-TG)",
+      "null": null
+    },
+    {
+      "pirro": 79,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti-DNA Doble Cadena",
+      "null": null
+    },
+    {
+      "pirro": 80,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti Bartonella IgG IgM (Ac. Bartonella henselae, IgG\n Ac. Bartonella henselae, IgM\n Ac. Bartonella quintana, IgG\n Ac. Bartonella quintana, IgM)",
+      "null": null
+    },
+    {
+      "pirro": 81,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti Borrelia burgdorferi",
+      "null": null
+    },
+    {
+      "pirro": 82,
+      "LISTAS DE PRECIOS OFICIALES 2026": "AC. Anti Chlamydia Trachomatis (IgM)",
+      "null": null
+    },
+    {
+      "pirro": 83,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti Dengue IGG, IGM, Antígeno NS1",
+      "null": null
+    },
+    {
+      "pirro": 84,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti Fosfolípidos IgG, IgM",
+      "null": null
+    },
+    {
+      "pirro": 85,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti Helicobacter Pylori (IgA)",
+      "null": null
+    },
+    {
+      "pirro": 86,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti Insulina (IgG)",
+      "null": null
+    },
+    {
+      "pirro": 87,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti Receptores acetilcolina",
+      "null": null
+    },
+    {
+      "pirro": 88,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti Rickettsias typhi IgG, IgM",
+      "null": null
+    },
+    {
+      "pirro": 89,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti Transglutaminasa tisular IgA, IgG",
+      "null": null
+    },
+    {
+      "pirro": 90,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti Treponema pallidum por IFI (FTA)",
+      "null": null
+    },
+    {
+      "pirro": 91,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti VIH - 1/2 (Cualitativa)",
+      "null": null
+    },
+    {
+      "pirro": 92,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti VIH - 1/2 (Cuantitativa)",
+      "null": null
+    },
+    {
+      "pirro": 93,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti-Treponema pallidum (Totales Cualitativos)",
+      "null": null
+    },
+    {
+      "pirro": 94,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac.Anti Toxoplasma lgG",
+      "null": null
+    },
+    {
+      "pirro": 95,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac.Anti Toxoplasma lgM",
+      "null": null
+    },
+    {
+      "pirro": 96,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Acido hipúrico de 24 horas",
+      "null": null
+    },
+    {
+      "pirro": 97,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ácido Láctico",
+      "null": null
+    },
+    {
+      "pirro": 98,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ácido Úrico",
+      "null": null
+    },
+    {
+      "pirro": 99,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ácido Valproico",
+      "null": null
+    },
+    {
+      "pirro": 100,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Adenosín desaminasa (ADA) en Liquido Pleural",
+      "null": null
+    },
+    {
+      "pirro": 101,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ag \"e\" de Hepatitis B (HBeAg)",
+      "null": null
+    },
+    {
+      "pirro": 102,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ag Carcinoembrionario (CEA)",
+      "null": null
+    },
+    {
+      "pirro": 103,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ag DEL VIRUS DE INFLUENZA A y B",
+      "null": null
+    },
+    {
+      "pirro": 104,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ag. DEL VIRUS DE INFLUENZA \"A\"",
+      "null": null
+    },
+    {
+      "pirro": 105,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ag. DEL VIRUS DE INFLUENZA \"B\"",
+      "null": null
+    },
+    {
+      "pirro": 106,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Albúmina en Suero",
+      "null": null
+    },
+    {
+      "pirro": 107,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Alcohol Etílico en saliva",
+      "null": null
+    },
+    {
+      "pirro": 108,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Alcohol Etílico en sangre",
+      "null": null
+    },
+    {
+      "pirro": 109,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Alfafetoproteína (AFP)",
+      "null": null
+    },
+    {
+      "pirro": 110,
+      "LISTAS DE PRECIOS OFICIALES 2026": "ALT/TGP",
+      "null": null
+    },
+    {
+      "pirro": 111,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Amiba en Fresco",
+      "null": null
+    },
+    {
+      "pirro": 112,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Amilasa",
+      "null": null
+    },
+    {
+      "pirro": 113,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Amonio",
+      "null": null
+    },
+    {
+      "pirro": 114,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Androstenediona",
+      "null": null
+    },
+    {
+      "pirro": 115,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Anti Esperma",
+      "null": null
+    },
+    {
+      "pirro": 116,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Anti. Centrómero (IgG)",
+      "null": null
+    },
+    {
+      "pirro": 117,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Anti. HLA B-27",
+      "null": null
+    },
+    {
+      "pirro": 118,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Anti. RNA - Polimerasa III (IgG)",
+      "null": null
+    },
+    {
+      "pirro": 119,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Anticoagulante Lúpico",
+      "null": null
+    },
+    {
+      "pirro": 120,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Anticuerpos Anti LRP4",
+      "null": null
+    },
+    {
+      "pirro": 121,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Anticuerpos Anti Nucleares IFI (ANA)",
+      "null": null
+    },
+    {
+      "pirro": 122,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Anticuerpos anti Trypanozoma cruzi (IgG)",
+      "null": null
+    },
+    {
+      "pirro": 123,
+      "LISTAS DE PRECIOS OFICIALES 2026": "AC. ANTI VARICELA IGG, IGM",
+      "null": null
+    },
+    {
+      "pirro": 124,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Antidoping (10) Elementos (AMP, BAR, BZD, COC, MET, MOR, MTD, PCP, TCA, THC)",
+      "null": null
+    },
+    {
+      "pirro": 125,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Antidoping 1 Parámetro THC (Cualitativa)",
+      "null": null
+    },
+    {
+      "pirro": 126,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Antidoping 1 Parámetro THC (Cuantificada)",
+      "null": null
+    },
+    {
+      "pirro": 127,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Antidoping 3 (COC, THC, ANF)",
+      "null": null
+    },
+    {
+      "pirro": 128,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Antidoping 5 (OPI, COC, THC, ANF, MET)",
+      "null": null
+    },
+    {
+      "pirro": 129,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Antidoping 6 (OPI, COC, THC, ANF, BAR, BZD)",
+      "null": null
+    },
+    {
+      "pirro": 130,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Antiestreptolisinas (Cuantificada)",
+      "null": null
+    },
+    {
+      "pirro": 131,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Antígeno de Histocompatibilidad Clase I (HLA-I) (A,B,C)",
+      "null": null
+    },
+    {
+      "pirro": 132,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Antígeno de Histocompatibilidad Clase II (HLA-II) (DRB1,DRB3,4,5,DQA1,DQB1)",
+      "null": null
+    },
+    {
+      "pirro": 133,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Antígeno de Superficie de Hepatitis B (HBsAg) (Prueba Cuantitativa)",
+      "null": null
+    },
+    {
+      "pirro": 134,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Antígeno Helicobacter pylori en Heces",
+      "null": null
+    },
+    {
+      "pirro": 135,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Antígeno Prostático Especifico (PSA)",
+      "null": null
+    },
+    {
+      "pirro": 136,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Antígeno Prostático Libre",
+      "null": null
+    },
+    {
+      "pirro": 137,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Antígeno SARS COV2",
+      "null": null
+    },
+    {
+      "pirro": 138,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Apolipoproteínas A1 y B",
+      "null": null
+    },
+    {
+      "pirro": 139,
+      "LISTAS DE PRECIOS OFICIALES 2026": "AST/TGO",
+      "null": null
+    },
+    {
+      "pirro": 140,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Azúcares Reductores en Heces",
+      "null": null
+    },
+    {
+      "pirro": 141,
+      "LISTAS DE PRECIOS OFICIALES 2026": "BAAR de 1 Muestra",
+      "null": null
+    },
+    {
+      "pirro": 142,
+      "LISTAS DE PRECIOS OFICIALES 2026": "BAAR de 3 Muestras",
+      "null": null
+    },
+    {
+      "pirro": 143,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Beta 2 Glicoproteína IgG",
+      "null": null
+    },
+    {
+      "pirro": 144,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Beta 2 Glicoproteína IgM",
+      "null": null
+    },
+    {
+      "pirro": 145,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Bicarbonato en Orina",
+      "null": null
+    },
+    {
+      "pirro": 146,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Bilirrubina Directa",
+      "null": null
+    },
+    {
+      "pirro": 147,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Bilirrubina Indirecta",
+      "null": null
+    },
+    {
+      "pirro": 148,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Bilirrubina Total",
+      "null": null
+    },
+    {
+      "pirro": 149,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Biometría Hemática",
+      "null": null
+    },
+    {
+      "pirro": 150,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Biometría Hemática (Canino)",
+      "null": null
+    },
+    {
+      "pirro": 151,
+      "LISTAS DE PRECIOS OFICIALES 2026": "CA 125 (Ovario)",
+      "null": null
+    },
+    {
+      "pirro": 152,
+      "LISTAS DE PRECIOS OFICIALES 2026": "CA 15-3 (Mama)",
+      "null": null
+    },
+    {
+      "pirro": 153,
+      "LISTAS DE PRECIOS OFICIALES 2026": "CA 19-9 (Páncreas-Colón)",
+      "null": null
+    },
+    {
+      "pirro": 154,
+      "LISTAS DE PRECIOS OFICIALES 2026": "CA 72-4",
+      "null": null
+    },
+    {
+      "pirro": 155,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Calcio",
+      "null": null
+    },
+    {
+      "pirro": 156,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Calculo Renal o Biliar (Fisicoquímico)",
+      "null": null
+    },
+    {
+      "pirro": 157,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Calprotectina en Heces (HCP)",
+      "null": null
+    },
+    {
+      "pirro": 158,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Capacidad Total de Fijación de Hierro",
+      "null": null
+    },
+    {
+      "pirro": 159,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Carbamazepina (Tegretol)",
+      "null": null
+    },
+    {
+      "pirro": 160,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cistatina \"C\"",
+      "null": null
+    },
+    {
+      "pirro": 161,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Citología de Liquido Pleural",
+      "null": null
+    },
+    {
+      "pirro": 162,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Citoquímico y Citológico de Liquido",
+      "null": null
+    },
+    {
+      "pirro": 163,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Citoquímico y Citológico de Líquido Biológicos (CITOQUIMICA DE LIQUIDO)",
+      "null": null
+    },
+    {
+      "pirro": 164,
+      "LISTAS DE PRECIOS OFICIALES 2026": "CK-MB",
+      "null": null
+    },
+    {
+      "pirro": 165,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cloro en suero",
+      "null": null
+    },
+    {
+      "pirro": 166,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Clostridium Difficile Toxinas A y B",
+      "null": null
+    },
+    {
+      "pirro": 167,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cocaína",
+      "null": null
+    },
+    {
+      "pirro": 168,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Colesterol Total",
+      "null": null
+    },
+    {
+      "pirro": 169,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Colesterol HDL",
+      "null": null
+    },
+    {
+      "pirro": 170,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Colesterol LDL medido",
+      "null": null
+    },
+    {
+      "pirro": 171,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Colinesterasa Sérica",
+      "null": null
+    },
+    {
+      "pirro": 172,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Complemento C3",
+      "null": null
+    },
+    {
+      "pirro": 173,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Complemento C4",
+      "null": null
+    },
+    {
+      "pirro": 174,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Coombs Directo (Ac Anti - RH Eritrocitarios)",
+      "null": null
+    },
+    {
+      "pirro": 175,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Coombs Indirecto (Ac Anti - RH Séricos)",
+      "null": null
+    },
+    {
+      "pirro": 176,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Coprocultivo",
+      "null": null
+    },
+    {
+      "pirro": 177,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Coprológico",
+      "null": null
+    },
+    {
+      "pirro": 178,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Coproparasitoscópico",
+      "null": null
+    },
+    {
+      "pirro": 179,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Coproparasitoscópico M1",
+      "null": null
+    },
+    {
+      "pirro": 180,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Coproparasitoscópico M2",
+      "null": null
+    },
+    {
+      "pirro": 181,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Coproparasitoscópico M3",
+      "null": null
+    },
+    {
+      "pirro": 182,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cortisol AM",
+      "null": null
+    },
+    {
+      "pirro": 183,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cortisol en orina 24 horas",
+      "null": null
+    },
+    {
+      "pirro": 184,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Creatinfosfoquinasa (CPK O CK)",
+      "null": null
+    },
+    {
+      "pirro": 185,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Creatinina en Orina",
+      "null": null
+    },
+    {
+      "pirro": 186,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Creatinina en Orina 24hrs",
+      "null": null
+    },
+    {
+      "pirro": 187,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Creatinina en Suero",
+      "null": null
+    },
+    {
+      "pirro": 188,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cromo (Cr) Sérico",
+      "null": null
+    },
+    {
+      "pirro": 189,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cultivo de Alimentos",
+      "null": null
+    },
+    {
+      "pirro": 190,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cultivo de Esperma",
+      "null": null
+    },
+    {
+      "pirro": 191,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cultivo de Expectoración",
+      "null": null
+    },
+    {
+      "pirro": 192,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cultivo de Exudado Faríngeo",
+      "null": null
+    },
+    {
+      "pirro": 193,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cultivo de Exudado Uretral",
+      "null": null
+    },
+    {
+      "pirro": 194,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cultivo de Exudado Vaginal",
+      "null": null
+    },
+    {
+      "pirro": 195,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cultivo de Líquidos Corporales",
+      "null": null
+    },
+    {
+      "pirro": 196,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cultivo de Mano",
+      "null": null
+    },
+    {
+      "pirro": 197,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cultivo de Secreción",
+      "null": null
+    },
+    {
+      "pirro": 198,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cultivo de secreción de herida",
+      "null": null
+    },
+    {
+      "pirro": 199,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cultivo de superficie inerte",
+      "null": null
+    },
+    {
+      "pirro": 200,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cultivo de Vibrio Cholerae",
+      "null": null
+    },
+    {
+      "pirro": 201,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cultivo Micológico (Hongos)",
+      "null": null
+    },
+    {
+      "pirro": 202,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Identificación de Mycoplasma/Ureaplasma",
+      "null": null
+    },
+    {
+      "pirro": 203,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cultivo para Micobacteryum",
+      "null": null
+    },
+    {
+      "pirro": 204,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cultivo para Neisseria gonorreae",
+      "null": null
+    },
+    {
+      "pirro": 205,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Cultivos Varios",
+      "null": null
+    },
+    {
+      "pirro": 206,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Curva de Glucosa ( Carga 75 g, 2 tomas)",
+      "null": null
+    },
+    {
+      "pirro": 207,
+      "LISTAS DE PRECIOS OFICIALES 2026": "CYFRA - 21 (Pulmón)",
+      "null": null
+    },
+    {
+      "pirro": 208,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Vitamina D 1,25 OH(Calcitriol)",
+      "null": null
+    },
+    {
+      "pirro": 209,
+      "LISTAS DE PRECIOS OFICIALES 2026": "DAO PLUS",
+      "null": null
+    },
+    {
+      "pirro": 210,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Dehidroepiandrosterona Sulfato (DHEA-S)",
+      "null": null
+    },
+    {
+      "pirro": 211,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Dehidroepiandrosterona Total (DHEA)",
+      "null": null
+    },
+    {
+      "pirro": 212,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Depuración de Creatinina (sin frasco)",
+      "null": null
+    },
+    {
+      "pirro": 213,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Deshidrogenasa Láctica (LDH)",
+      "null": null
+    },
+    {
+      "pirro": 214,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Antigeno Cryptococcus Neoformans LCR",
+      "null": null
+    },
+    {
+      "pirro": 215,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Detección SARS-CoV2 (COVID-19) PCR",
+      "null": null
+    },
+    {
+      "pirro": 216,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Difenilhidantoína (Fenitoína)",
+      "null": null
+    },
+    {
+      "pirro": 217,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Dímero D",
+      "null": null
+    },
+    {
+      "pirro": 218,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Dióxido de Carbono Total",
+      "null": null
+    },
+    {
+      "pirro": 219,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Electrolitos Séricos (NA, K) 2 elementos",
+      "null": null
+    },
+    {
+      "pirro": 220,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Electrolitos Séricos 3 elementos (NA, K, Cl)",
+      "null": null
+    },
+    {
+      "pirro": 221,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Electrolitos Séricos 4 (NA, K, Cl, Ca)",
+      "null": null
+    },
+    {
+      "pirro": 222,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Electrolitos Séricos 6 elementos (NA, K, Cl, P, Mg, Ca)",
+      "null": null
+    },
+    {
+      "pirro": 223,
+      "LISTAS DE PRECIOS OFICIALES 2026": "EOSINÓFILOS EN MOCO NASAL",
+      "null": null
+    },
+    {
+      "pirro": 224,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Espermatobioscopia",
+      "null": null
+    },
+    {
+      "pirro": 225,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Estradiol (E2)",
+      "null": null
+    },
+    {
+      "pirro": 226,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Estriol Libre uE3",
+      "null": null
+    },
+    {
+      "pirro": 227,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Estrógenos totales",
+      "null": null
+    },
+    {
+      "pirro": 228,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Examen General de Orina",
+      "null": null
+    },
+    {
+      "pirro": 229,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Éxtasis",
+      "null": null
+    },
+    {
+      "pirro": 230,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Factor Reumatoide (Cualitativo)",
+      "null": null
+    },
+    {
+      "pirro": 231,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Factor Reumatoide (Cuantitativo)",
+      "null": null
+    },
+    {
+      "pirro": 232,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Fenobarbital",
+      "null": null
+    },
+    {
+      "pirro": 233,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ferritina",
+      "null": null
+    },
+    {
+      "pirro": 234,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Fibrinógeno",
+      "null": null
+    },
+    {
+      "pirro": 235,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Fosfatasa ácida total",
+      "null": null
+    },
+    {
+      "pirro": 236,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Fosfatasa Alcalina",
+      "null": null
+    },
+    {
+      "pirro": 237,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Fósforo",
+      "null": null
+    },
+    {
+      "pirro": 238,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Fracción Beta de HGC Sérica",
+      "null": null
+    },
+    {
+      "pirro": 239,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Fracción libre beta Gonadotrofina coriónica humana. tumoral",
+      "null": null
+    },
+    {
+      "pirro": 240,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Frotis de Sangre Periférica",
+      "null": null
+    },
+    {
+      "pirro": 241,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Fructosa en semen",
+      "null": null
+    },
+    {
+      "pirro": 242,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Fructosamina",
+      "null": null
+    },
+    {
+      "pirro": 243,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Galactomanano",
+      "null": null
+    },
+    {
+      "pirro": 244,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Gamma glutamiltransferasa (GGT)",
+      "null": null
+    },
+    {
+      "pirro": 245,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Gasometría Arterial",
+      "null": null
+    },
+    {
+      "pirro": 246,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Gasometría Venosa",
+      "null": null
+    },
+    {
+      "pirro": 247,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Giardia en heces",
+      "null": null
+    },
+    {
+      "pirro": 248,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Glucosa (Basal)",
+      "null": null
+    },
+    {
+      "pirro": 249,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Glucosa Post-Prandial",
+      "null": null
+    },
+    {
+      "pirro": 250,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Grupo Sanguíneo y Factor RH",
+      "null": null
+    },
+    {
+      "pirro": 251,
+      "LISTAS DE PRECIOS OFICIALES 2026": "HE4 (PROTEINA 4 DEL EPIDIDIMO HUMANO)",
+      "null": null
+    },
+    {
+      "pirro": 252,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Helicobacter pylori, prueba de aliento",
+      "null": null
+    },
+    {
+      "pirro": 253,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Hemocultivo",
+      "null": null
+    },
+    {
+      "pirro": 254,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Hemoglobina Glicosilada",
+      "null": null
+    },
+    {
+      "pirro": 255,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Hepatitis D (Ac)",
+      "null": null
+    },
+    {
+      "pirro": 256,
+      "LISTAS DE PRECIOS OFICIALES 2026": "HGC Cualitativa (Prueba de embarazo)",
+      "null": null
+    },
+    {
+      "pirro": 257,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Hierro sérico (Fe)",
+      "null": null
+    },
+    {
+      "pirro": 258,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Hormona Adrenocorticotrófica (ACTH)",
+      "null": null
+    },
+    {
+      "pirro": 259,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Hormona Anti Mulleriana (MRH/AMH)",
+      "null": null
+    },
+    {
+      "pirro": 260,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Hormona de Crecimiento (Somatotropina)",
+      "null": null
+    },
+    {
+      "pirro": 261,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Hormona Folículo Estimulante (FSH)",
+      "null": null
+    },
+    {
+      "pirro": 262,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Hormona Luteinizante (LH)",
+      "null": null
+    },
+    {
+      "pirro": 263,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Hormona Paratiroidea (Parathormona/PTH-Intacta)",
+      "null": null
+    },
+    {
+      "pirro": 264,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Hormona Tiroideo Estimulante (TSH)",
+      "null": null
+    },
+    {
+      "pirro": 265,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Identificación de cepa bacteriana",
+      "null": null
+    },
+    {
+      "pirro": 266,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Índice de Tiroxina Libre",
+      "null": null
+    },
+    {
+      "pirro": 267,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Infecciones de Transmisión Sexual (ITS11)",
+      "null": null
+    },
+    {
+      "pirro": 268,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Inhibina A",
+      "null": null
+    },
+    {
+      "pirro": 269,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Inmunofenotipo Citometría de Flujo",
+      "null": null
+    },
+    {
+      "pirro": 270,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Inmunoglobulina A",
+      "null": null
+    },
+    {
+      "pirro": 271,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Inmunoglobulina E",
+      "null": null
+    },
+    {
+      "pirro": 272,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Inmunoglobulina G",
+      "null": null
+    },
+    {
+      "pirro": 273,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Inmunoglobulina M",
+      "null": null
+    },
+    {
+      "pirro": 274,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Insulina Basal",
+      "null": null
+    },
+    {
+      "pirro": 275,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Interleucina 6",
+      "null": null
+    },
+    {
+      "pirro": 276,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Leucocitos en moco fecal",
+      "null": null
+    },
+    {
+      "pirro": 277,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Lipasa",
+      "null": null
+    },
+    {
+      "pirro": 278,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Lípidos Totales Calculado",
+      "null": null
+    },
+    {
+      "pirro": 279,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Magnesio en Suero",
+      "null": null
+    },
+    {
+      "pirro": 280,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Microalbumina en Orina",
+      "null": null
+    },
+    {
+      "pirro": 281,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Microalbumina en Orina de 24 Hrs",
+      "null": null
+    },
+    {
+      "pirro": 282,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Mioglobina",
+      "null": null
+    },
+    {
+      "pirro": 283,
+      "LISTAS DE PRECIOS OFICIALES 2026": "MUSK (Tirosinasa Musculo Específica) Anticuerpos",
+      "null": null
+    },
+    {
+      "pirro": 284,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Niveles Séricos de Levetiracetam",
+      "null": null
+    },
+    {
+      "pirro": 285,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Panel Respiratorio Viral",
+      "null": null
+    },
+    {
+      "pirro": 286,
+      "LISTAS DE PRECIOS OFICIALES 2026": "PAPP-A (Proteina plasmática A asociada al embarazo)",
+      "null": null
+    },
+    {
+      "pirro": 287,
+      "LISTAS DE PRECIOS OFICIALES 2026": "PCR GENE XPERT Mycobacterium tuberculosis / RESISTENCIA A RIFAMPICINA",
+      "null": null
+    },
+    {
+      "pirro": 288,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Péptido C",
+      "null": null
+    },
+    {
+      "pirro": 289,
+      "LISTAS DE PRECIOS OFICIALES 2026": "ProBNP",
+      "null": null
+    },
+    {
+      "pirro": 290,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil Ac. Anti Tiroides (TPO y TG)",
+      "null": null
+    },
+    {
+      "pirro": 291,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil Alergia alimenticio 40 elementos (Inmunoglobulina “E”, Avena, frijol rojo, trigo, brócoli, maíz, zanahoria, papa, chicharo, arroz, pimiento, soya, calabaza, ostión, tomate, almeja, almendra, cangrejo, cacahuate, camarón, nuez, atún, aguacate, carne de pollo, manzana, carne de cerdo, plátano, carne de pavo, naranja, carne de res, limón, caseína, lina, leche de vaca, durazno, queso, fresa, clara de huevo, chocolate, yema de huevo, levadura)",
+      "null": null
+    },
+    {
+      "pirro": 292,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil Alergia alimenticio e inhalatorio (81 elementos - Ambrosia común, Inmunoglobulina E, Chícharo, Chocolate, Calabaza, Cacahuate, Camarón, Cangrejo, Carne de Cerdo, Carne de Pavo, Carne de Pollo, Carne de Res, Caseína, Clara de Huevo, Almendra, Atún, Arroz, Aguacate, Avena, Almeja, Brócoli, Pimiento, Plátano, Papa, Tomate, Trigo, Nuez, Manzana, Naranja, Lima, Levadura, Limón, Leche de Vaca, Durazno, Fresa, Frijol rojo, Maíz, Ostión, Yema de Huevo, Soya, Queso, Zanahoria, Ambrosia común, Inmunoglobulina E, Roble, Fresno blanco, Pino blanco, Eucalipto, Acacia, Mezquite, Álamo, Pasto de las Bermudas (Capriola), Pasto común, Sorgo, Artemisa (Ajenjo y Estafiate), Diente de León, Planta rodadora (Cardo), Lengua de vaca, Ambrosia deltoidea, Atriplex canscens, Amaranto,Penicillium notatum, Cladosporium herbarum, Mucor racemusos,Candida albicans, Alternaria tenuis, Rhizopus nigricans,Epicoccum purpurascens, Aspergillus niger, Epitelio de gato,Epitelio de perro, Plumas de ganso, Plumas de periquito australiano, Plumas de pollo, Plumas de pato, Plumas de perico,Plumas de canario, Plumas de pichón, Cucaracha, Polvo casero, Dermatophagoides pteronyssinus (Ácaro), Dermatophagoides farinae (Ácaro), Abedul blanco (Alubia), Beta lactoglobulina, Glúten, Veneno de abeja, Epitelio de hámster, Ratón, Sardina, Látex, Penicilloyl G, Insulina (humana), Ampicilina)",
+      "null": null
+    },
+    {
+      "pirro": 293,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil Androgénico (17 Alfa - Hidroxiprogesterona sérica, Androstenediona, Cortisol, DHEA-SO4, DHEA, Testosterona Total)",
+      "null": null
+    },
+    {
+      "pirro": 294,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil Bilirrubinas ( Bilirrubinas Total, Bilirrubinas Directa, Bilirrubinas Inderecta)",
+      "null": null
+    },
+    {
+      "pirro": 295,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil Cardiaco (Aspartato aminotransferasa (AST/TGO), Lactato deshidrogenasa, Creatina cinasa (CK)\n Creatina cinasa MB (CK-MB) )",
+      "null": null
+    },
+    {
+      "pirro": 296,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil Cinética de Hierro (Hierro sérico, % Saturación de Hierro, Capacidad total de fijación de Hierro, Ferritina, Transferrina)",
+      "null": null
+    },
+    {
+      "pirro": 297,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil coagulación (TP, TTPa)",
+      "null": null
+    },
+    {
+      "pirro": 298,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil de Calcio en Orina 24 horas",
+      "null": null
+    },
+    {
+      "pirro": 299,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil de Catecolaminas orina 24 hrs.",
+      "null": null
+    },
+    {
+      "pirro": 300,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil de Hepatitis B (IgG e IgM) (HBsAg, AcAgSHB, AcHBc IgM, AcHBc IgG, AgEHB, AcAgEHB)",
+      "null": null
+    },
+    {
+      "pirro": 301,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil de Lípidos (Colesterol Total, Triglicéridos, Colesterol HDL , Colesterol LDL , Colesterol VLDL)",
+      "null": null
+    },
+    {
+      "pirro": 302,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil de Torch (Ac Anti Toxoplasma gondii (IgG), Ac Anti Toxoplasma gondii (IgM), Ac Anti Rubeola (IgG), Ac Anti Rubeola (IgM), Ac Anti Citomegalovirus (IgG), Ac Anti Citomegalovirus (IgM), Ac Anti Herpes I (IgG), Ac Anti Herpes I (IgM), Ac Anti Herpes II (IgG), Ac Anti Herpes II (IgM))",
+      "null": null
+    },
+    {
+      "pirro": 303,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil Ginecológico (FSH, LH, Prolactina Sérica, Testosterona Total, Progesterona Sérica y Estradiol)",
+      "null": null
+    },
+    {
+      "pirro": 304,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil Hepático (Proteínas Totales con Relación A/G (Albúmina/Globulina), Bilirrubina Total, Bilirrubina Directa, Bilirrubina Indirecta, Aspartato aminotransferasa(AST/TGO), Alanina aminotransferasa (ALT/TGP), Gamma glutamiltransferasa (GGT), Lactato deshidrogenasa, Fosfatasa alcalina (ALP))",
+      "null": null
+    },
+    {
+      "pirro": 305,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil Ovárico (Estradiol, Hormona Folículo Estimulante (FSH), Hormona Luteinizante (LH), Progesterona Sérica, Prolactina Sérica)",
+      "null": null
+    },
+    {
+      "pirro": 306,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil preoperatorio ( BH, EGO, TP, TTPa, Glucosa, Urea, Creatinina Seríca, Grupo Rh)",
+      "null": null
+    },
+    {
+      "pirro": 307,
+      "LISTAS DE PRECIOS OFICIALES 2026": "PERFIL REUMATICO (Proteína \"C\" Reactiva, Factor Reumatoide (FR LÁTEX), Anti estreptomicina (ASO LÁTEX), Ácido Úrico, VSG)",
+      "null": null
+    },
+    {
+      "pirro": 308,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil Rotavirus (Adenovirus, Rotavirus, Astrovirus)",
+      "null": null
+    },
+    {
+      "pirro": 309,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil Tiroideo Básico (Triyodotironina (T3) Total, Tiroxina (T4) Total, Hormona Estimulante de Tiroides (TSH),Triyodotironina (T3) Libre, Tiroxina (T4) Libre)",
+      "null": null
+    },
+    {
+      "pirro": 310,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil Tiroideo Completo (Triyodotironina (T3) Total, Tiroxina (T4) Total, Hormona Estimulante de Tiroides (TSH),Triyodotironina (T3) Libre, Tiroxina (T4) Libre,T3 Uptake, Índice de Tiroxina Libre (ITL), Yodo Proteico (IP))",
+      "null": null
+    },
+    {
+      "pirro": 311,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Plomo en Sangre",
+      "null": null
+    },
+    {
+      "pirro": 312,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Potasio",
+      "null": null
+    },
+    {
+      "pirro": 313,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Procalcitonina Cuantitiva",
+      "null": null
+    },
+    {
+      "pirro": 314,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Procalcitonina cualitativa",
+      "null": null
+    },
+    {
+      "pirro": 315,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Progesterona",
+      "null": null
+    },
+    {
+      "pirro": 316,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Proteína C Reactiva (Cuantificada)",
+      "null": null
+    },
+    {
+      "pirro": 317,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Proteína C Reactiva Látex",
+      "null": null
+    },
+    {
+      "pirro": 318,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Proteína C Reactiva Ultrasensible",
+      "null": null
+    },
+    {
+      "pirro": 319,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Proteínas en Orina",
+      "null": null
+    },
+    {
+      "pirro": 320,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Proteínas en Orina de 24 Horas",
+      "null": null
+    },
+    {
+      "pirro": 321,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Proteínas Totales (séricas)",
+      "null": null
+    },
+    {
+      "pirro": 322,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Proteínas Totales con Relación A/G",
+      "null": null
+    },
+    {
+      "pirro": 323,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Proteínas Totales De Plasma",
+      "null": null
+    },
+    {
+      "pirro": 324,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Prueba de exclusión de la paternidad (2 individuos)",
+      "null": null
+    },
+    {
+      "pirro": 325,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Prueba de KOH",
+      "null": null
+    },
+    {
+      "pirro": 326,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Quantose RI",
+      "null": null
+    },
+    {
+      "pirro": 327,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Química Sanguínea 3 Elementos (Glucosa, Urea, Creatinina sérica)",
+      "null": null
+    },
+    {
+      "pirro": 328,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Química Sanguínea 4 Elementos (Glucosa, Urea, Creatinina sérica, Ácido úrico)",
+      "null": null
+    },
+    {
+      "pirro": 329,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Química Sanguínea 5 Elementos (Glucosa, Urea, Creatinina sérica, Ácido úrico, Colesterol Total)",
+      "null": null
+    },
+    {
+      "pirro": 330,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Química Sanguínea 6 Elementos (Glucosa, Urea, Creatinina sérica, Ácido úrico, Colesterol Total, Triglicéridos)",
+      "null": null
+    },
+    {
+      "pirro": 331,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Química Sanguínea 12 Elementos (Glucosa, Urea, Creatinina sérica, Ácido úrico, Colesterol Total, Triglicéridos, BUN, Bilirrubina total, Fosfatasa alcalina, AST (TGO), ALT (TGP), GGT, DHL)",
+      "null": null
+    },
+    {
+      "pirro": 332,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Química Sanguínea 24 Elementos (Glucosa, Urea, Creatinina sérica, Ácido úrico, Colesterol Total, Triglicéridos, BUN, Bilirrubina total, Fosfatasa alcalina, AST (TGO), ALT (TGP), GGT, DHL, Bilirrubina conjugada o directa, bilirrubina no conjugada o indirecta, Proteínas totales, Albumina, Globulina, Relación Albumina/Globulina, Sodio, Potasio, Cloro, Calcio, Fosforo, Hierro)",
+      "null": null
+    },
+    {
+      "pirro": 333,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Química Sanguínea 27 Elementos (Glucosa, Urea, Creatinina sérica, Ácido úrico, Colesterol Total, Triglicéridos, BUN, Bilirrubina total, Fosfatasa alcalina, AST (TGO), ALT (TGP), GGT, DHL, Bilirrubina conjugada o directa, bilirrubina no conjugada o indirecta, Proteínas totales, Albumina, Globulina, Relación Albumina/Globulina, Sodio, Potasio, Cloro, Calcio, Fosforo, Hierro, Colesterol HDL, Colesterol LDL, Colesterol VLDL)",
+      "null": null
+    },
+    {
+      "pirro": 334,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Química Sanguínea 28 Elementos (Glucosa, Urea, Creatinina sérica, Ácido úrico, Colesterol Total, Triglicéridos, BUN, Bilirrubina total, Fosfatasa alcalina, AST (TGO), ALT (TGP), GGT, DHL, Bilirrubina conjugada o directa, bilirrubina no conjugada o indirecta, Proteínas totales, Albumina, Globulina, Relación Albumina/Globulina, Sodio, Potasio, Cloro, Calcio, Fosfoto, Hierro, Colesterol HDL, Colesterol LDL, Colesterol VLDL, Índice aterogénico)",
+      "null": null
+    },
+    {
+      "pirro": 335,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Química Sanguínea 30 Elementos (Glucosa, Urea, Creatinina sérica, Ácido úrico, Colesterol Total, Triglicéridos, BUN, Bilirrubina total, Fosfatasa alcalina, AST (TGO), ALT (TGP), GGT, DHL, Bilirrubina conjugada o directa, bilirrubina no conjugada o indirecta, Proteínas totales, Albumina, Globulina, Relación Albumina/Globulina, Sodio, Potasio, Cloro, Calcio, Fosforo, Hierro, Colesterol HDL, Colesterol LDL, Colesterol VLDL, Índice aterogénico., Ferritina , Transferrina)",
+      "null": null
+    },
+    {
+      "pirro": 336,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Química Sanguínea 35 Elementos (Glucosa, Urea, Creatinina sérica, Ácido úrico, Colesterol Total, Triglicéridos, BUN, Bilirrubina total, Fosfatasa alcalina, AST (TGO), ALT (TGP), GGT, DHL, Bilirrubina conjugada o directa, bilirrubina no conjugada o indirecta, Proteínas totales, Albumina, Globulina, Relación Albumina/Globulina, Sodio, Potasio, Cloro, Calcio, Fosforo, Hierro, Colesterol HDL, Colesterol LDL, Colesterol VLDL, Índice aterogénico., Ferritina , Transferrina, Magnesio, Capacidad total de fijación de hierro, % de saturación de hierro, Lípidos totales )",
+      "null": null
+    },
+    {
+      "pirro": 337,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Química Sanguínea 37 Elementos (Glucosa, Urea, Creatinina sérica, Ácido úrico, Colesterol Total, Triglicéridos, BUN, Bilirrubina total, Fosfatasa alcalina, AST (TGO), ALT (TGP), GGT, DHL, Bilirrubina conjugada o directa, bilirrubina no conjugada o indirecta, Proteínas totales, Albumina, Globulina, Relación Albumina/Globulina, Sodio, Potasio, Cloro, Calcio, Fosforo, Hierro, Colesterol HDL, Colesterol LDL, Colesterol VLDL, Índice aterogénico., Ferritina , Transferrina, Magnesio, , Lípidos totales, Amilasa, Lipasa)",
+      "null": null
+    },
+    {
+      "pirro": 338,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Química Sanguínea 49 Elementos (Glucosa, Urea, Creatinina sérica, Ácido úrico, Colesterol Total, Triglicéridos, BUN, Bilirrubina total, Fosfatasa alcalina, AST (TGO), ALT (TGP), GGT, DHL, Bilirrubina conjugada o directa, bilirrubina no conjugada o indirecta, Proteínas totales, Albumina, Globulina, Relación Albumina/Globulina, Sodio, Potasio, Cloro, Calcio, Fosforo, Hierro, Colesterol HDL, Colesterol LDL, Colesterol VLDL, Índice aterogénico., Ferritina , Transferrina, Magnesio, , Lípidos totales, Amilasa, Lipasa, CK, CKMB, Proteína C reactiva, Capacidad total de fijación de hierro, % de saturación de hierro, Inmunoglobulina A, Inmunoglobulina E, Inmunoglobulina G, Inmunoglobulina M, Proteína totales en orina, Sodio (urinario), Potasio (urinario) Cloro (urinario), Calcio (urinario) )",
+      "null": null
+    },
+    {
+      "pirro": 339,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Digoxina",
+      "null": null
+    },
+    {
+      "pirro": 340,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Reacciones Febriles",
+      "null": null
+    },
+    {
+      "pirro": 341,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Prolactina",
+      "null": null
+    },
+    {
+      "pirro": 342,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Reticulocitos",
+      "null": null
+    },
+    {
+      "pirro": 343,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Resistencia a la Insulina por índice HOMA",
+      "null": null
+    },
+    {
+      "pirro": 344,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Rosa de Bengala",
+      "null": null
+    },
+    {
+      "pirro": 345,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Rotavirus",
+      "null": null
+    },
+    {
+      "pirro": 346,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Sangre Oculta en Heces",
+      "null": null
+    },
+    {
+      "pirro": 347,
+      "LISTAS DE PRECIOS OFICIALES 2026": "SARS-CoV-2 IgG (Cuantitativo)",
+      "null": null
+    },
+    {
+      "pirro": 348,
+      "LISTAS DE PRECIOS OFICIALES 2026": "SARS-COV2 IgG/IgM (Cuantitativo)",
+      "null": null
+    },
+    {
+      "pirro": 349,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Sodio",
+      "null": null
+    },
+    {
+      "pirro": 350,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Sodio, Urea y Creatinina en orina de una micción",
+      "null": null
+    },
+    {
+      "pirro": 351,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Somatomedina C (IgF-I)",
+      "null": null
+    },
+    {
+      "pirro": 352,
+      "LISTAS DE PRECIOS OFICIALES 2026": "SubPoblaciones de Linfocitos (CD19,CD3,CD4,CD8, CD56)",
+      "null": null
+    },
+    {
+      "pirro": 353,
+      "LISTAS DE PRECIOS OFICIALES 2026": "T3 Captación",
+      "null": null
+    },
+    {
+      "pirro": 354,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Tacrolimus (Prograf)",
+      "null": null
+    },
+    {
+      "pirro": 355,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Tamiz Metabólico Neonatal Ampliado",
+      "null": null
+    },
+    {
+      "pirro": 356,
+      "LISTAS DE PRECIOS OFICIALES 2026": "TAMIZ NEONATAL BASICO",
+      "null": null
+    },
+    {
+      "pirro": 357,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Testosterona biodisponible",
+      "null": null
+    },
+    {
+      "pirro": 358,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Testosterona Libre",
+      "null": null
+    },
+    {
+      "pirro": 359,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Testoterona Total",
+      "null": null
+    },
+    {
+      "pirro": 360,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Tiempo de Coagulación",
+      "null": null
+    },
+    {
+      "pirro": 361,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Tiempo de Protrombina (TP)",
+      "null": null
+    },
+    {
+      "pirro": 362,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Tiempo de Sangrado",
+      "null": null
+    },
+    {
+      "pirro": 363,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Tiempo de Trombina (TT)",
+      "null": null
+    },
+    {
+      "pirro": 364,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Tiempo de Tromboplastina Parcial activado (TTPa)",
+      "null": null
+    },
+    {
+      "pirro": 365,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Tinción de Gram",
+      "null": null
+    },
+    {
+      "pirro": 366,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Tinta china",
+      "null": null
+    },
+    {
+      "pirro": 367,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Tiroglobulina",
+      "null": null
+    },
+    {
+      "pirro": 368,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Tiroxina (T4) Libre",
+      "null": null
+    },
+    {
+      "pirro": 369,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Tiroxina (T4) Total",
+      "null": null
+    },
+    {
+      "pirro": 370,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Transferrina",
+      "null": null
+    },
+    {
+      "pirro": 371,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Triglicéridos",
+      "null": null
+    },
+    {
+      "pirro": 372,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Triyodotironina (T3) Libre",
+      "null": null
+    },
+    {
+      "pirro": 373,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Triyodotironina (T3) Total",
+      "null": null
+    },
+    {
+      "pirro": 374,
+      "LISTAS DE PRECIOS OFICIALES 2026": "TROPONINA I (CUALITATIVA)",
+      "null": null
+    },
+    {
+      "pirro": 375,
+      "LISTAS DE PRECIOS OFICIALES 2026": "TROPONINA I Ultrasensible (hs-TnI)",
+      "null": null
+    },
+    {
+      "pirro": 376,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Troponina I (Cuantitativa)",
+      "null": null
+    },
+    {
+      "pirro": 377,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Urea",
+      "null": null
+    },
+    {
+      "pirro": 378,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Urocultivo",
+      "null": null
+    },
+    {
+      "pirro": 379,
+      "LISTAS DE PRECIOS OFICIALES 2026": "V.D.R.L. (Reacciones Seroluéticas)",
+      "null": null
+    },
+    {
+      "pirro": 380,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Velocidad de Sedimentación Globular (VSG)",
+      "null": null
+    },
+    {
+      "pirro": 381,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Virus del Papiloma Humano, Genotipificación",
+      "null": null
+    },
+    {
+      "pirro": 382,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Vitamina B12",
+      "null": null
+    },
+    {
+      "pirro": 383,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Vitamina D Total (25-hidroxi-colecalciferol)",
+      "null": null
+    },
+    {
+      "pirro": 384,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Vitamina K",
+      "null": null
+    },
+    {
+      "pirro": 385,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Western blot Ac. Anti Borrellia burgdorferi",
+      "null": null
+    },
+    {
+      "pirro": 386,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Western Blot HIV",
+      "null": null
+    },
+    {
+      "pirro": 387,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Yodo proteico",
+      "null": null
+    },
+    {
+      "pirro": 388,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Zinc en Suero",
+      "null": null
+    },
+    {
+      "pirro": 389,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Electrolitos Séricos 5 elementos (NA, K, Cl, P, Mg)",
+      "null": null
+    },
+    {
+      "pirro": 390,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti ameba IgG (Serameba)",
+      "null": null
+    },
+    {
+      "pirro": 391,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Litio sérico",
+      "null": null
+    },
+    {
+      "pirro": 392,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ácido Fólico",
+      "null": null
+    },
+    {
+      "pirro": 393,
+      "LISTAS DE PRECIOS OFICIALES 2026": "BUN",
+      "null": null
+    },
+    {
+      "pirro": 394,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Factor VIII de la coagulación",
+      "null": null
+    },
+    {
+      "pirro": 395,
+      "LISTAS DE PRECIOS OFICIALES 2026": "CITOLOGÍA CERVICOVAGINAL CONVENCIONAL (PAP)",
+      "null": null
+    },
+    {
+      "pirro": 396,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti-Citomegalovirus IgG e IgM",
+      "null": null
+    },
+    {
+      "pirro": 397,
+      "LISTAS DE PRECIOS OFICIALES 2026": "PCR Factor V (Mutación Leiden)**",
+      "null": null
+    },
+    {
+      "pirro": 398,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Prueba de exclusión de la paternidad (3 individuos)",
+      "null": null
+    },
+    {
+      "pirro": 399,
+      "LISTAS DE PRECIOS OFICIALES 2026": "PCRP - PROTROMBINA 20210 G>A",
+      "null": null
+    },
+    {
+      "pirro": 400,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Quantiferon TB gold",
+      "null": null
+    },
+    {
+      "pirro": 401,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil Prenupciales simple (V.D.R.L., Grupo Sanguineo y Factor RH, Certificado médico) 2 pacientes",
+      "null": null
+    },
+    {
+      "pirro": 402,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil Prenupciales + HVI (V.D.R.L., Grupo Sanguineo y Factor RH, Certificado médico, HIV 1/2 Cualitativa) 2 pacientes",
+      "null": null
+    },
+    {
+      "pirro": 403,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Oxalato en orina de 24 hrs",
+      "null": null
+    },
+    {
+      "pirro": 404,
+      "LISTAS DE PRECIOS OFICIALES 2026": "T-3 reversa",
+      "null": null
+    },
+    {
+      "pirro": 405,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti Gliadinas IgA IgG",
+      "null": null
+    },
+    {
+      "pirro": 406,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti Epstein barr Ag. temprano IgG",
+      "null": null
+    },
+    {
+      "pirro": 407,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti Epstein barr Ag. nuclear IgG",
+      "null": null
+    },
+    {
+      "pirro": 408,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti Parvovirus B-19 IgG, IgM",
+      "null": null
+    },
+    {
+      "pirro": 409,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Células L.E.",
+      "null": null
+    },
+    {
+      "pirro": 410,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Antígeno de Superficie de Hepatitis B (HBsAg) (Prueba Cualitativa)",
+      "null": null
+    },
+    {
+      "pirro": 411,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti Sarampion IgG, IgM",
+      "null": null
+    },
+    {
+      "pirro": 412,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Check-up Masculino (PSA, BH, EGO, QS3)",
+      "null": null
+    },
+    {
+      "pirro": 413,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Calprotectina (HCP) y lactoferrina (HLF) humana",
+      "null": null
+    },
+    {
+      "pirro": 414,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil Cardiaco (CK-MB, Creatinfosfoquinasa (CPK O CK), Troponina I (Cuantitativa) )",
+      "null": null
+    },
+    {
+      "pirro": 415,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ácido hipúrico (Tolueno) de una micción",
+      "null": null
+    },
+    {
+      "pirro": 416,
+      "LISTAS DE PRECIOS OFICIALES 2026": "AC. Anti Chlamydia Trachomatis (IgA)",
+      "null": null
+    },
+    {
+      "pirro": 417,
+      "LISTAS DE PRECIOS OFICIALES 2026": "BAAR de 2 Muestras",
+      "null": null
+    },
+    {
+      "pirro": 418,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Citoquímico de Liquido corporal",
+      "null": null
+    },
+    {
+      "pirro": 419,
+      "LISTAS DE PRECIOS OFICIALES 2026": "SARS-CoV-2 IgM (Cuantitativo)",
+      "null": null
+    },
+    {
+      "pirro": 420,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac Anti Mycobacterium tuberculosis (IgG)",
+      "null": null
+    },
+    {
+      "pirro": 421,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti Fosfolípidos IgM",
+      "null": null
+    },
+    {
+      "pirro": 422,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti Fosfolípidos IgG",
+      "null": null
+    },
+    {
+      "pirro": 423,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil Alergia inhalatorio (40 elementos) Inmunoglobulina \"E\", Aspergillus niger, Abedul blanco (Alubia), Candida albicans, Mezquite, Cladosporium herbarum, Acacia, Epicoccum purpurascens, Fresno blanco, Mucor racemusos, Álamo, Penicillium notatum, Roble, Rhizopus nigricans, Pino blanco, Epitelio de gato, Eucalipto, Epitelio de perro, Pasto de las Bermudas (Capriola), Plumas de ganso, Plumas de pato, Pasto común, Plumas de pollo, Sorgo, Plumas de pichón, Ambrosia común, Plumas de canario, Amaranto, Plumas de perico, Artemisa (Ajenjo y Estafiate), Plumas de periquito australiano, Diente de León, Planta rodadora (Cardo), Cucaracha, Ambrosia deltoidea, Polvo casero, Atriplex canscens, Dermatophagoides farinae, Lengua de vaca, Alternaria tenuis, Dermatophagoides pteronyssinus (Ácaro)",
+      "null": null
+    },
+    {
+      "pirro": 424,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Ac. Anti Rubeola (IgM)",
+      "null": null
+    },
+    {
+      "pirro": 425,
+      "LISTAS DE PRECIOS OFICIALES 2026": "Perfil Hormonal Femenino ( Cortisol AM, Estradiol (E2), Hormona de Crecimiento (Somatotropina), Hormona Folículo Estimulante (FSH), Hormona Luteinizante (LH), Hormona Tiroideo Estimulante (TSH), Progesterona, Prolactina, Testoterona Total)",
+      "null": null
+    },
+    {
+      "pirro": null,
+      "LISTAS DE PRECIOS OFICIALES 2026": null,
+      "null": null
+    }
+  ]
+}
